@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Joke of the day:</h2>
+
+<p>What did the car say to its tires?</p>
+
+<p id="demo" style="display:none">Thanks for keepin it wheel!</p>
+
+<button type="button" onclick="document.getElementById('demo').style.display='block'">Answer!</button>
+</body>
+</html>
